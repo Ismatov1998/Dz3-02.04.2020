@@ -1,0 +1,11 @@
+C:\mgu\az\obj\Debug\netcoreapp3.1\mgu.csprojAssemblyReference.cache
+C:\mgu\az\obj\Debug\netcoreapp3.1\mgu.AssemblyInfoInputs.cache
+C:\mgu\az\obj\Debug\netcoreapp3.1\mgu.AssemblyInfo.cs
+C:\mgu\az\bin\Debug\netcoreapp3.1\mgu.exe
+C:\mgu\az\bin\Debug\netcoreapp3.1\mgu.deps.json
+C:\mgu\az\bin\Debug\netcoreapp3.1\mgu.runtimeconfig.json
+C:\mgu\az\bin\Debug\netcoreapp3.1\mgu.runtimeconfig.dev.json
+C:\mgu\az\bin\Debug\netcoreapp3.1\mgu.dll
+C:\mgu\az\bin\Debug\netcoreapp3.1\mgu.pdb
+C:\mgu\az\obj\Debug\netcoreapp3.1\mgu.dll
+C:\mgu\az\obj\Debug\netcoreapp3.1\mgu.pdb
