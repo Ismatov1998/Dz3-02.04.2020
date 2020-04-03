@@ -8,7 +8,12 @@ namespace MyfirstClass
         {
          Book book=new Book();
          book.setinfo("Сестренка", "Кристина Гептинг","Художественное произведение");
-         
+         Console.ForegroundColor=ConsoleColor.Red;
+         book.showTitle();
+         Console.ForegroundColor=ConsoleColor.Yellow;
+         book.showAuthor();
+         Console.ForegroundColor=ConsoleColor.Green;
+         book.showContent();
         
          
         }
@@ -24,7 +29,20 @@ namespace MyfirstClass
        this.Author1.Author1=name1;
        this.Content1.Content1=name2;
       }
-       
+        public void showTitle()
+        {
+            title1.show();
+        }
+
+         public void showAuthor()
+        {
+            Author1.show();
+        }
+         public void showContent()
+        {
+            Content1.show();
+        }
+    
       
         
 
